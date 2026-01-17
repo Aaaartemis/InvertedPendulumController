@@ -1,14 +1,16 @@
 # Inverted Pendulum Control: PID vs MPC
 
-This repository contains the implementation, simulation models, and supporting materials for a Control Systems project focused on stabilising an inverted pendulum on a rotating base.
+The **Rotary Inverted Pendulum** is a non-linear system used to benchmark advanced control strategies. The primary challenge lies in maintaining an upright balance of the pendulum link by precisely controlling the horizontal rotation of the base arm. 
+
+This project focuses on the design and implementation of two distinct controllers to achieve stability and reference tracking for the **Quanser QUBE-Servo 3** system.
 
 The project compares a classical PID controller with a Model Predictive Controller (MPC), analysing performance, stability, constraint handling, and tuning trade-offs.
 
-The full theoretical derivation, experimental design, and results are documented in the accompanying project report.
+This repository contains the implementation, models, and supporting materials to simulate the inverted pendulum on a rotating base.
+
+The full theoretical state-space derivation, experimental design, and results are documented in the accompanying project report.
 
 ---
-
-## Project Overview
 
 ## Controllers Implemented
 
