@@ -91,11 +91,11 @@ Simulations are performed in Simulink / QLabs, and controller performance is eva
 ## Repository Structure
  ```
 ├── code/ 
-| ├── quarc_mpc.m # mpc code 
-| └── xxx.m # pid code
+| └── quarc_mpc.m # mpc code
 │
 ├── model/
-│ └── pendulum.slx # System model (state-space / Simulink)
+│ ├── mpc_pendulum_controller.slx # MPC Simulink model
+│ └── pid_pendulum_controller.slx # PID Simulink model
 │
 ├── images/
 │ ├── pidVSmps.png
