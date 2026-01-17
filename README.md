@@ -98,8 +98,7 @@ Simulations are performed in Simulink / QLabs, and controller performance is eva
 │ └── pendulum.slx # System model (state-space / Simulink)
 │
 ├── images/
-│ ├── pid_analytics.png
-│ ├── mpc_analytics.png
+│ ├── pidVSmps.png
 │ └── QLabs.png
 │
 └── README.md
