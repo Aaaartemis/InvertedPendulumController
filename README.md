@@ -101,6 +101,8 @@ Simulations are performed in Simulink / QLabs, and controller performance is eva
 │ ├── pidVSmps.png
 │ └── QLabs.png
 │
+├── Control_2_Group_6_Project_Report.pdf
+│
 └── README.md
  ```
 
