@@ -94,7 +94,7 @@ Simulations are performed in Simulink / QLabs, and controller performance is eva
 | ├── quarc_mpc.m # mpc code 
 | └── xxx.m # pid code
 │
-├── models/
+├── model/
 │ └── pendulum.slx # System model (state-space / Simulink)
 │
 ├── images/
